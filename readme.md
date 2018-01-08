@@ -16,7 +16,7 @@ You can then access petclinic here: http://localhost:8080/
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
-
+#venkatesh added
 
 ## Database configuration
 
@@ -110,7 +110,7 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 [spring-petclinic]: https://github.com/spring-projects/spring-petclinic
 [spring-framework-petclinic]: https://github.com/spring-petclinic/spring-framework-petclinic
-[spring-petclinic-angularjs]: https://github.com/spring-petclinic/spring-petclinic-angularjs 
+[spring-petclinic-angularjs]: https://github.com/spring-petclinic/spring-petclinic-angularjs
 [javaconfig branch]: https://github.com/spring-petclinic/spring-framework-petclinic/tree/javaconfig
 [spring-petclinic-angular]: https://github.com/spring-petclinic/spring-petclinic-angular
 [spring-petclinic-microservices]: https://github.com/spring-petclinic/spring-petclinic-microservices
